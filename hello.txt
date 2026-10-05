@@ -1,2 +1,3 @@
 Hello, Git! This is my first change.
 I am learning Git step by step.
+I am now using VS Code to make my changes.
